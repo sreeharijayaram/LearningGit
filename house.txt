@@ -1,1 +1,2 @@
 Hello my name is sreehari i am currently learning git
+Added a new line to houses.txt file
